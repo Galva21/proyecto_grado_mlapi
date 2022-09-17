@@ -1,0 +1,27 @@
+
+tamaniogrande	espacioDisponible	estadoEconomico	tiempoDisponible	recomendado
+            3                   1	              3	               3	          0
+
+TAMANIPOGRANDE
+                pequeño  ==>    1
+                mediano  ==>    2
+                grande   ==>    3
+
+ESPACIODISPONIBLE
+                pequeño  ==>    1
+                mediano  ==>    2
+                grande   ==>    3
+
+ESTADOECONOMICO
+                regular     ==>    1
+                bueno       ==>    2
+                muybueno    ==>    3
+
+TIEMPODISPONIBLE
+                regular     ==>    1
+                bueno       ==>    2
+                muybueno    ==>    3
+
+RECOMENDADO
+                si  ==>    1
+                no  ==>    2
