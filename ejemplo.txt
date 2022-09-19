@@ -25,3 +25,5 @@ TIEMPODISPONIBLE
 RECOMENDADO
                 si  ==>    1
                 no  ==>    2
+                
+https://www.campusmvp.es/recursos/post/como-gestionar-diferentes-entornos-para-python-con-conda.aspx#:~:text=Exportar%20entornos%20de%20conda&text=Este%20comando%20lo%20que%20hace,de%20mucha%20ayuda%20al%20clonarlo.
